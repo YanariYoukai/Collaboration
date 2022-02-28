@@ -4,6 +4,6 @@ public class Future {
         String sign = "vahy";
         System.out.println("vahy");
 
-        System.out.println(sign);
+        System.out.printf("Your future looks like %s", sign);
     }
 }
