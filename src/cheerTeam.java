@@ -4,6 +4,6 @@ public class cheerTeam {
 
         System.out.println("Celadon C#");
         System.out.println(s);
-        System.out.println();
+        System.out.println("Cheer for the " + s);
     }
 }
