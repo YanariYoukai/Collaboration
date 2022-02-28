@@ -1,7 +1,8 @@
 public class HelloWorld {
 
-  public static void helloWorld(String s, int num) {
-    System.out.println(s + " " + num);
+  public static void helloWorld(String s) {
+    System.out.println("this is modification from Dima");
+    System.out.println(s);
   }
 
 }
