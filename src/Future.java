@@ -2,7 +2,8 @@ public class Future {
 
     public void future() {
         String sign = "vahy";
-        System.out.println("vahy");
+        String nieco = "zde";
+        System.out.println(nieco);
 
         System.out.println(sign);
     }
