@@ -5,7 +5,7 @@ public class CountMethod {
         this.age = age;
     }
 
-    public void count() {
-        System.out.println("my age is: " + 2);
+    public void count(int age, String name) {
+        System.out.println("my age is: " + age + " and name is: " + name);
     }
 }
