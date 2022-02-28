@@ -1,11 +1,11 @@
 public class GreetMethod {
-    private String name;
+    private String myName;
 
     public GreetMethod() {
-        this.name = "Yanari Youkai";
+        this.myName = "Yanari Youkai";
     }
 
-    public void greet() {
+    public void greet(String name) {
         System.out.printf("Hello, my name is %s", name);
     }
 }
