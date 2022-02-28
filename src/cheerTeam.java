@@ -4,5 +4,6 @@ public class cheerTeam {
 
         System.out.println("Celadon C#");
         System.out.println(s);
+        System.out.println();
     }
 }
