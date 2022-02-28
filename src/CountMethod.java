@@ -6,6 +6,6 @@ public class CountMethod {
     }
 
     public void count() {
-        System.out.println("my age is: " + age);
+        System.out.println("my age is: " + 2);
     }
 }
