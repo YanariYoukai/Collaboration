@@ -7,6 +7,6 @@ public class GreetMethod {
     }
 
     public void greet(String name) {
-        System.out.printf("Hello, my name is %s", name);
+        System.out.println("Greetings for the " + name + "!");
     }
 }
