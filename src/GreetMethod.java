@@ -2,6 +2,7 @@ public class GreetMethod {
     private String myName;
 
     public GreetMethod() {
+        System.out.println("my base lang is Java");
         this.myName = "Yanari Youkai";
     }
 
