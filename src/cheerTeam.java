@@ -1,6 +1,6 @@
 public class cheerTeam {
 
-    public void cheer(String s){
+    public void Cheer(String param1,int param2){
 
         System.out.println("Celadon C#");
         System.out.println(s);
