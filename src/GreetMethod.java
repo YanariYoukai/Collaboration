@@ -3,7 +3,7 @@ public class GreetMethod {
 
     public GreetMethod() {
         System.out.println("my base lang is Java");
-        this.myName = "Yanari Youkai";
+        this.myName = "Radek Kocka";
     }
 
     public void greet(String name) {

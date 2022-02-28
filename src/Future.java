@@ -1,8 +1,9 @@
 public class Future {
 
     public void future() {
-        String sign = "Kozorožec";
-        System.out.println("Kozorožec");
+        String sign = "vahy";
+        System.out.println("vahy");
+
         System.out.println(sign);
     }
 }
