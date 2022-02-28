@@ -8,7 +8,9 @@ public class GreetMethod {
         this.age = 30;
     }
 
-    public void greet(String name, int age) {
-        System.out.printf("Hello, my name is %s, and I'm %d", name, age);
+ 
+    public void greet(String name) {
+        System.out.println("Greetings for the " + name + "!");
+ 
     }
 }
